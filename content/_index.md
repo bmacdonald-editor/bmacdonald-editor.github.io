@@ -9,6 +9,6 @@ cascade:
 ---
 This is the home page for MacDonald editorial, formerly a full-service editorial provider, specializing in technical content. 
 
-MacDonald Editorial is no longer accepting clients, which means this is the web home of Brian MacDonald, technical editor, manager, speaker, and writer. 
+MacDonald Editorial is not accepting clients at this time, which means this is the web home of Brian MacDonald, technical editor, manager, speaker, and writer. 
 
 You'll find links here to projects past and present, as well as pages for some of my hobbies. 
