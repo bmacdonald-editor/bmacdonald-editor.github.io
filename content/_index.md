@@ -7,8 +7,6 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/hero_image.jpg'
 ---
-This is the home page for MacDonald editorial, formerly a full-service editorial provider, specializing in technical content. 
+This is the home page for MacDonald editorial, a full-service editorial provider, specializing in technical content. 
 
-MacDonald Editorial is not accepting clients at this time, which means this is the web home of Brian MacDonald, technical editor, manager, speaker, and writer. 
-
-You'll find links here to projects past and present, as well as pages for some of my hobbies. 
+This is also the web home of Brian MacDonald, technical editor, manager, speaker, and writer. 
