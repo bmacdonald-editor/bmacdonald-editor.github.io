@@ -4,7 +4,7 @@ date: 2023-11-06T16:42:22-05:00
 draft: false
 menu:
     main:
-        weight: 3
+        weight: 2
 ---
 
 Welcome to the page for MacDonald Editorial, owned by Brian MacDonald. I reserved this domain for my freelance business a long time ago, but I shut down the service before I finished the site. As a result, this is now a place to keep my résumé, some of my writing, a portfolio of the projects I've worked on (in progress), and some other information related to my hobbies. 

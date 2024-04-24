@@ -1,10 +1,9 @@
 ---
 title: 'Résumé'
 featured_image: ''
-date: 2023-11-06T15:39:11-05:00
 menu:
     main:
-        weight: 2
+        weight: 4
 draft: false
 omit_header_text: true
 ---

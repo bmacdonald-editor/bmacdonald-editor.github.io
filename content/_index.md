@@ -7,6 +7,6 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/hero_image.jpg'
 ---
-This is the home page for MacDonald editorial, a full-service editorial provider, specializing in technical content. 
+Welcome to MacDonald editorial, a full-service editorial provider, specializing in technical content, owned by Brian MacDonald, technical editor, manager, speaker, and writer. 
 
-This is also the web home of Brian MacDonald, technical editor, manager, speaker, and writer. 
+If you're interested in improving your technical content, whether it's your company's official docs, your personal site, or a book idea you've had kicking around, I can help. Check out the Services I offer, and [get in touch](mailto:bmacdonald128@gmail.com?subject=Inquiry) if you'd like to discuss your needs.
