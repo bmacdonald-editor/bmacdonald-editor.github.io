@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 author: Brian MacDonald
+date: {{ .Date }}
 draft: false
 omit_header_text: false
 ---
