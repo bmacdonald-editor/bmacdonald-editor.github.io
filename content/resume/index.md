@@ -1,9 +1,7 @@
 ---
 title: 'Résumé'
 featured_image: ''
-menu:
-    main:
-        weight: 4
+
 draft: false
 omit_header_text: true
 ---

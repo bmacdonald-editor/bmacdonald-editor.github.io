@@ -31,6 +31,7 @@ enableRobotsTXT = true
   background_color_class = "bg-blue"
   recent_posts_number = 5
   body_classes = "georgia bg-near-white"
+  mainSections = ['posts']
 
 [[params.ananke_socials]]
 name = "mastodon"
