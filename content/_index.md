@@ -9,4 +9,4 @@ cascade:
 ---
 Welcome to MacDonald Editorial, a full-service editorial provider, specializing in technical content, owned by Brian MacDonald, technical editor, manager, speaker, and writer. 
 
-If you're interested in improving your technical content, whether it's your company's official docs, your personal site, or a book idea you've had kicking around, I can help. Check out the [services I offer]( {{< ref "/services" >}} ), and [get in touch](mailto:brian@macdonaldeditorialcom?subject=Inquiry) if you'd like to discuss your needs.
+If you're interested in improving your technical content, whether it's your company's official docs, your personal site, or a book idea you've had kicking around, I can help. Check out the [services I offer]( {{< ref "/services" >}} ), and [get in touch]({{< ref "/contact" >}} "Contact") if you'd like to discuss your needs.
