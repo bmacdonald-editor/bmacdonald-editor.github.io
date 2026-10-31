@@ -33,6 +33,11 @@ enableRobotsTXT = true
   body_classes = "georgia bg-near-white"
   mainSections = ['posts']
 
+[[menu.main]]
+name = "Nonsense"
+url = "https://www.macdonaldeditorial.com/nonsense/"
+weight = 4
+
 [[params.ananke_socials]]
 name = "mastodon"
 url = "https://jawns.club/@bmac"

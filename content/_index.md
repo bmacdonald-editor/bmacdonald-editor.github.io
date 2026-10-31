@@ -7,6 +7,8 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/hero_image.jpg'
 ---
-Welcome to MacDonald Editorial, a full-service editorial provider, specializing in technical content, owned by Brian MacDonald, technical editor, manager, speaker, and writer. 
+This is the former home of MacDonald Editorial, a full-service editorial provider, specializing in technical content, owned by Brian MacDonald, technical editor, writer, manager, and speaker. 
 
-If you're interested in improving your technical content, whether it's your company's official docs, your personal site, or a book idea you've had kicking around, I can help. Check out the [services I offer]( {{< ref "/services" >}} ), and [get in touch]({{< ref "/contact" >}} "Contact") if you'd like to discuss your needs.
+MacDonald Editorial is not accepting clients at this time. This page is in "legacy mode" to maintain some [posts]( {{< ref "/posts" >}}) about publishing that some may find useful, as well as the [services I offered]( {{< ref "/services" >}} ). 
+
+If you're interested in the writing I've done for fun, check out the [Nonsense](https://www.macdonaldeditorial.com/nonsense/) pages.
